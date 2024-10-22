@@ -3,7 +3,7 @@ package edu.felipe.primeirasemana;
 public class projeto1 {
     public static void main (String [] args) {
         String nomeDoZe = "Zézera";
-        String sobrenomeDoZe = "Consultor da TUPAN";
+        String sobrenomeDoZe = "Consultor da TUPAN1";
         String zezera = zezera(nomeDoZe, sobrenomeDoZe);
 
         System.out.println(zezera);
